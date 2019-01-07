@@ -1,0 +1,2 @@
+C:\Users\Hacı Süleyman Doğan\Desktop\YazilimTestProje-master_3\YazilimTestProje-master2\DemirbasOtomasyon\UnitTestStokTakip\obj\Debug\UnitTestStokTakip.csprojAssemblyReference.cache
+C:\Users\Hacı Süleyman Doğan\Desktop\YazilimTestProje-master_3\YazilimTestProje-master2\DemirbasOtomasyon\UnitTestStokTakip\obj\Debug\UnitTestStokTakip.csproj.CoreCompileInputs.cache
